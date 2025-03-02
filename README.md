@@ -1,5 +1,5 @@
 ## Overview
-Quick revision to Grover's algorithm and solve a Boolean Satisfiability Problem.  Then, apply to a Travelling Salesman Problem.  As Grover's algorithm is $O(sqrt(N)), both problems are still in exponential time.
+Quick revision to Grover's algorithm and solve a Boolean Satisfiability Problem.  Then, apply to a Travelling Salesman Problem.  As Grover's algorithm is $O(\sqrt{N})$, both problems are still in exponential time.
 
 ## Content
 1. [Chapter 1](01_grover_sat.ipynb) Grover's algorithm revision and illustrate with an example Boolean Satisfiability Problem.
